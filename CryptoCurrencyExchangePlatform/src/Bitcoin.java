@@ -10,11 +10,7 @@
 public class Bitcoin {
 
     public Bitcoin() {
-        System.out.println("Const");
-        System.out.println("sad");
-        System.out.println("asd");
-        System.out.println("asdsadsadsad");
-        System.out.println("Hop");
+   
     }
     
 }
