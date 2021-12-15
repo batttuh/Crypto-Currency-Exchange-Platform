@@ -7,5 +7,10 @@
  *
  * @author hasan
  */
+public class Bitcoin {
+
+    public Bitcoin() {
+        System.out.println("Const");
+    }
     
 }
