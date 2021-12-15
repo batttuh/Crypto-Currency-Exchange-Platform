@@ -10,7 +10,8 @@
 public class Bitcoin {
 
     public Bitcoin() {
-   
+        System.out.println("adsa");
+               
     }
     
 }
